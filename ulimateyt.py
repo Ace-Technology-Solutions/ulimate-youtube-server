@@ -91,9 +91,8 @@ if(pass=="'''+pword+'''"){
 
 }else{
 
-alert("Access denied: BIG SHAQ ONE AND ONLY");
 
-document.body.innerHTML="<h1>I'm afraid you cannot use this PERSON redirect in 5 seconds</h1>";
+document.body.innerHTML="<h1>I'm afraid you cannot use this, redirect in 5 seconds</h1>";
 
 function Cat(){
 
@@ -105,13 +104,6 @@ window.location="about:blank";
 
 </script>
 
-<script type="text/javascript"
-
-    var adfly_id = 19279991;
-
-    var popunder_frequency_delay = 0;
-
-</script>
 
 
 
@@ -258,7 +250,7 @@ def getVid(id):
 Your browser does not support the video tag.
 </video><h1>'''+database1[id][1]+'''</h1><p>'''+database1[id][2]+'''</p>
         </body>
-<script type="text/javascript"> var infolinks_pid = 3084238; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+
 <script>
 function ddd(){document.getElementById("url").value="'''+database1[id][3]+'''"}
 </script>
@@ -327,8 +319,8 @@ if(pass=="io"||(window.localStorage.getItem("pass")=="used")){
   window.localStorage.setItem("pass","used");
   alert("Access granted");
 }else{
-alert("Access denied: BIG SHAQ ONE AND ONLY");
-document.body.innerHTML="<h1>I'm afraid you cannot use this PERSON redirect in 5 seconds</h1>";
+alert("Access denied: ");
+document.body.innerHTML="<h1>I'm afraid you cannot use thisredirect in 5 seconds</h1>";
 function Cat(){
 window.location="https://google.com/DENIED";
 }
@@ -338,7 +330,7 @@ setTimeout(Cat,3000);
 
 
 </form>
-<script type="text/javascript"> var infolinks_pid = 3084238; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+
 '''+gen()
     else:
       try:
